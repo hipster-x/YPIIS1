@@ -61,8 +61,7 @@ print_array(random_array)
 
 Вывести ФИО и дату рождения, самого младшего и самого старшего студента
 
-DataBase: EX2/Студенты.xlsx
-
+DataBase: https://github.com/hipster-x/YPIIS1/blob/d86729c1e4e27b54ebb4ae114e5715dca5b67fa6/EX2/%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D1%8B.xlsx
 ```sh
 students = [
     {"last_name": "Иванов", "first_name": "Иван", "birth_date": "2000-01-01"},
